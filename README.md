@@ -5,7 +5,7 @@ discord-fun is a simple package to implement fun commands for discord bots.
 # Installing
 
 ```bash
-npm i discord-nsfw
+npm i discord-fun
 ```
 
 # Methods
