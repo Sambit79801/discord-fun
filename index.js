@@ -1,2 +1,2 @@
   
-module.exports = require("./src/anime");
+module.exports = require("./src/fun");
