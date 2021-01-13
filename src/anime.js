@@ -1,6 +1,6 @@
 const superagent = require("superagent");
 
-class anime {
+class fun {
 constructor() {
     this.version = require("../package.json").version;
     this.methods = [
@@ -101,3 +101,4 @@ async wink() {
 const body = superagent.get('https://waifu.pics/api/sfw/wink')
 return body.url;
 }
+module.exports = fun;
